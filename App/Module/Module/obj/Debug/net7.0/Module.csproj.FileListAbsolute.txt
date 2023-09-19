@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\LABS\C#\DAY 3\day3\App\Module\Module\bin\Debug\net7.0\Module.deps.json
+C:\Users\Admin\Desktop\LABS\C#\DAY 3\day3\App\Module\Module\bin\Debug\net7.0\Module.dll
+C:\Users\Admin\Desktop\LABS\C#\DAY 3\day3\App\Module\Module\bin\Debug\net7.0\Module.pdb
+C:\Users\Admin\Desktop\LABS\C#\DAY 3\day3\App\Module\Module\obj\Debug\net7.0\Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\LABS\C#\DAY 3\day3\App\Module\Module\obj\Debug\net7.0\Module.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\LABS\C#\DAY 3\day3\App\Module\Module\obj\Debug\net7.0\Module.AssemblyInfo.cs
+C:\Users\Admin\Desktop\LABS\C#\DAY 3\day3\App\Module\Module\obj\Debug\net7.0\Module.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LABS\C#\DAY 3\day3\App\Module\Module\obj\Debug\net7.0\Module.dll
+C:\Users\Admin\Desktop\LABS\C#\DAY 3\day3\App\Module\Module\obj\Debug\net7.0\refint\Module.dll
+C:\Users\Admin\Desktop\LABS\C#\DAY 3\day3\App\Module\Module\obj\Debug\net7.0\Module.pdb
+C:\Users\Admin\Desktop\LABS\C#\DAY 3\day3\App\Module\Module\obj\Debug\net7.0\ref\Module.dll
