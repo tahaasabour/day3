@@ -46,7 +46,7 @@ namespace App
                                 Name = Console.ReadLine()
                             };
                             PrintTrainees();
-
+                            AddMoreTrainees();
                             break;
                         }
                     default:
