@@ -1,0 +1,11 @@
+C:\Users\moran\source\repos\Modules\Modules\bin\Debug\net6.0\Modules.deps.json
+C:\Users\moran\source\repos\Modules\Modules\bin\Debug\net6.0\Modules.dll
+C:\Users\moran\source\repos\Modules\Modules\bin\Debug\net6.0\Modules.pdb
+C:\Users\moran\source\repos\Modules\Modules\obj\Debug\net6.0\Modules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moran\source\repos\Modules\Modules\obj\Debug\net6.0\Modules.AssemblyInfoInputs.cache
+C:\Users\moran\source\repos\Modules\Modules\obj\Debug\net6.0\Modules.AssemblyInfo.cs
+C:\Users\moran\source\repos\Modules\Modules\obj\Debug\net6.0\Modules.csproj.CoreCompileInputs.cache
+C:\Users\moran\source\repos\Modules\Modules\obj\Debug\net6.0\Modules.dll
+C:\Users\moran\source\repos\Modules\Modules\obj\Debug\net6.0\refint\Modules.dll
+C:\Users\moran\source\repos\Modules\Modules\obj\Debug\net6.0\Modules.pdb
+C:\Users\moran\source\repos\Modules\Modules\obj\Debug\net6.0\ref\Modules.dll
